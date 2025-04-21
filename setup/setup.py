@@ -56,8 +56,7 @@ setuptools.setup(
     include_package_data=True,
     classifiers=[
         'Programming Language :: Python :: 3.6',
-        'Operating System :: OS Independent',
-        'License :: Free for non-commercial use'
+        'Operating System :: OS Independent'
     ],
     license='apache-2.0'
 )
